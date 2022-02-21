@@ -1,7 +1,7 @@
 ### Hello!
 
-My name's Ramona Spence
-I work full-time in a bakery, but in my spare time, I contribute to open source software. I'm currently working on Code for Greenville's [Upstate Tech Events API](https://github.com/codeforgreenville/upstate_tech_cal_service).
+My name's Ramona Spence. 
+I work full-time in a bakery, but in my spare time, I contribute to open source software.  I'm currently working on Code for Greenville's [Upstate Tech Events API](https://github.com/codeforgreenville/upstate_tech_cal_service).
 
 
 <!--
