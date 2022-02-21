@@ -4,7 +4,11 @@ My name's Ramona Spence. I use she/her or they/them pronouns.
 
 I work full-time in a bakery, but in my spare time, I contribute to open source software. I'm currently making contributions on Code for Greenville's [Upstate Tech Events API](https://github.com/codeforgreenville/upstate_tech_cal_service).
 
+# Contact Me
 
+If you're looking to get in touch with me, there's a few different ways.
+1. If you're a recruiter or would like to contact me about a job opening, send me an email at jobsearch.ramonaspence@gmail.com.
+2. All others can reach me on my LinkedIn [here](https://www.linkedin.com/in/ramona-spence/).
 <!--
 **ramonaspence/ramonaspence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
