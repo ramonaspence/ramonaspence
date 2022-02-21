@@ -1,6 +1,6 @@
 ### Hello!
 
-My name's Ramona Spence. I use she/her or they/them pronouns.   
+My name's Ramona Spence. I use she/her or they/them pronouns.   <br>
 I work full-time in a bakery, but in my spare time, I contribute to open source software.   
 I'm currently making contributions on Code for Greenville's [Upstate Tech Events API](https://github.com/codeforgreenville/upstate_tech_cal_service).
 
