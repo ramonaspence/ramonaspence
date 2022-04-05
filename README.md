@@ -7,8 +7,8 @@ I work full-time in a bakery, but in my spare time, I contribute to open source 
 # Contact Me
 
 If you're looking to get in touch with me, there's a few different ways.
-1. If you're a recruiter or would like to contact me about a job opening, send me an email at jobsearch.ramonaspence@gmail.com.
-2. All others can reach me on my LinkedIn [here](https://www.linkedin.com/in/ramona-spence/).
+1. Are you looking to recruit or hire a Python and React developer? Send me an email at jobsearch.ramonaspence@gmail.com.
+2. All others, please reach out to me on my LinkedIn [here](https://www.linkedin.com/in/ramona-spence/).
 <!--
 **ramonaspence/ramonaspence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
